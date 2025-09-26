@@ -11,8 +11,6 @@ I specialize in **AI-powered applications**, **Laravel + Vue.js** projects, and 
 
 💡 I enjoy building products that combine **intelligence + creativity** — from **AI-powered real estate tools**, to **AI therapists**, to **games powered by generative AI**.  
 
-Currently, I’m preparing for my **Master’s in AI in Moscow (OpenDoors Scholarship)**, focusing on **machine learning, deep learning, and applied AI**.
-
 ---
 
 ## 🛠️ Tech Stack  
