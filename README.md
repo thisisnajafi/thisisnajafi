@@ -75,7 +75,7 @@ I specialize in **AI-powered applications**, **Laravel + Vue.js** projects, and 
 
 - 🌐 Website: *(coming soon)*  
 - 📸 Instagram: [Abolfazl Najafi](https://www.instagram.com/thisisnajafi)  
-- 💼 LinkedIn: [thisisnajafi](https://www.linkedin.com/in/thisisnajafi/) 
+- 💼 LinkedIn: [Thisisnajafi](https://www.linkedin.com/in/thisisnajafi/) 
 - 📧 Email: [Thisisprofnajafi@gmail.com](mailto:thisisprofnajafi@gmail.com)
 
 ---
