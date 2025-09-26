@@ -60,30 +60,10 @@ Currently, I’m preparing for my **Master’s in AI in Moscow (OpenDoors Schola
 
 ---
 
-### 🔹 [🌐 LGBT Dating App](#)  
-> A **Laravel + Vue.js 3 (Vite)** project with dashboard, backend API, and Flutter client.  
-- Pure PHP version also developed for flexibility  
-
----
-
 ### 🔹 [📈 BI & Data Visualization Training](#)  
 > Taught **Power BI courses** for government companies (NIDC).  
 - Two 30-hour courses, ~90% student satisfaction  
 - Also taught **HTML & CSS** (95% positive feedback) and **WordPress**  
-
----
-
-## 🎓 Certifications & Learning Path  
-
-📌 Currently working on:  
-- **Machine Learning Specialization (Coursera)**  
-- **Deep Learning Specialization (Coursera)**  
-- Preparing for **IELTS** (to study abroad in Moscow)  
-- Learning **Russian (up to A2)**  
-
-🎯 Future Goal: Build a strong AI research portfolio before **OpenDoors 2026 intake**.  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -96,10 +76,9 @@ Currently, I’m preparing for my **Master’s in AI in Moscow (OpenDoors Schola
 ## 📫 Connect with Me  
 
 - 🌐 Website: *(coming soon)*  
-- 📸 Instagram: [لباس حاجی](https://www.instagram.com) (80k+ followers, 1M+ reel views)  
-- 🎥 YouTube: [Kaveh Ascend](#) (Motivational stories & AI-powered videos)  
-- 💼 LinkedIn: *(add your profile link)*  
-- 📧 Email: *(your email here)*  
+- 📸 Instagram: [Abolfazl Najafi](https://www.instagram.com/thisisnajafi)  
+- 💼 LinkedIn: [thisisnajafi](https://www.linkedin.com/in/thisisnajafi/) 
+- 📧 Email: [Thisisprofnajafi@gmail.com](mailto:thisisprofnajafi@gmail.com)
 
 ---
 
